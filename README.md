@@ -22,7 +22,7 @@ Ensure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/medical-chatbot.git
+git clone https://github.com/DakshBalyan-Coder/medical-chatbot.git
 
 2. Navigate to the project directory:
 cd medical-chatbot
