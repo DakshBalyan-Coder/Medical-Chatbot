@@ -25,7 +25,7 @@ Ensure you have the following installed:
 git clone https://github.com/DakshBalyan-Coder/medical-chatbot.git
 
 2. Navigate to the project directory:
-cd medical-chatbot
+cd medical-chatbot /
 
 3. Install the required Python packages:
 pip install -r requirements.txt
